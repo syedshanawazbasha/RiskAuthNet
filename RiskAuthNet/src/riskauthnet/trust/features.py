@@ -1,6 +1,4 @@
-"""Bounded five-group behavioural features. All normalisers are documented
-engineering definitions, as raw normalisation equations are incomplete in the manuscript.
-"""
+
 from __future__ import annotations
 from collections import deque
 import math
