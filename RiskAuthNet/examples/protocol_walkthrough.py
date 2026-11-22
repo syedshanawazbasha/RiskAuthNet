@@ -1,4 +1,4 @@
-"""Demonstrate real certificate, replay, signed CRL and V2I session path."""
+
 from riskauthnet.crypto.certificates import CertificateAuthority
 from riskauthnet.crypto.session import mutual_handshake
 from riskauthnet.config import Settings
