@@ -1,12 +1,4 @@
-/*
- * RiskAuthNet ns-3.47 offline SUMO mobility trace replayer.
- * Run through scratch/riskauthnet-v2x.cc on an ns-3 installation.
- * Each vehicle sends signed-payload-sized UDP datagrams over 802.11p 10 MHz;
- * the MAC/PHY (not Python) determines reception, collisions and delay.
- * ECDSA is NOT run inside ns-3: use `riskauthnet replay-ns3` for the Python
- * authentication stage after exporting network reception events.
- * This sidecar is untested here because ns-3 is not installed in the sandbox.
- */
+
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
 #include "ns3/wifi-module.h"
