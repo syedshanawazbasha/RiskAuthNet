@@ -1,0 +1,3 @@
+{"type":3,"sender":12,"senderPseudo":1002,"sendTime":0.1,"rcvTime":0.108,"messageID":1,"pos":[1,2,0],"spd":[10,0,0],"isMalicious":false}
+{"type":3,"sender":12,"senderPseudo":1002,"sendTime":0.2,"rcvTime":0.208,"messageID":2,"pos":[2,2,0],"spd":[10,0,0],"isMalicious":false}
+{"type":3,"sender":12,"senderPseudo":1002,"sendTime":0.3,"rcvTime":0.308,"messageID":3,"pos":[250,2,0],"spd":[10,0,0],"isMalicious":true}

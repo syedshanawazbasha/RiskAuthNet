@@ -1,0 +1,6 @@
+scenario: urban
+vehicles: 80
+simulation_seconds: 600
+attacker_fraction: 0.10
+channel_drop_probability: 0.12
+seed: 42

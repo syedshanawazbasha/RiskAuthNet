@@ -1,0 +1,31 @@
+# Frozen reference parameters transcribed from manuscript Table 3.
+window_size: 10
+trust_lambda: 0.80
+trust_recovery: 0.05
+anomaly_penalty: 0.10
+initial_trust: 0.60
+min_trust: 0.40
+anomaly_threshold: 0.50
+risk_thresholds: [0.25, 0.50, 0.75]
+risk_weights: [0.60, 0.20, 0.20]
+feature_weights: [0.20, 0.15, 0.30, 0.25, 0.10]
+probation_messages: 3
+hysteresis_messages: 10
+channel_tolerance: 0.70
+freshness_ms: 100
+pseudonym_lifetime_ms: 300000
+session_lifetime_ms: 60000
+token_lifetime_ms: 30000
+beacon_interval_ms: 100
+max_speed_mps: 60.0
+max_accel_mps2: 9.0
+max_yaw_rate_rad_s: 1.0
+position_tolerance_m: 5.0
+max_active_senders: 5000
+rsu_per_sender_interval_ms: 2000
+rsu_max_per_second: 400
+rsu_radius_m: 300
+reference_density_vehicles: 200
+alert_normalization_count: 20
+# Explicit engineering choices where source lacks a numeric definition.
+neighbor_speed_tolerance_mps: 15.0

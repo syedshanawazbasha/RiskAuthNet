@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fcd-export>
+  <timestep time="0.00"><vehicle id="carA" x="0" y="0" angle="90" speed="10"/><vehicle id="carB" x="0" y="10" angle="90" speed="8"/></timestep>
+  <timestep time="0.10"><vehicle id="carA" x="1" y="0" angle="90" speed="10"/><vehicle id="carB" x="0.8" y="10" angle="90" speed="8"/></timestep>
+  <timestep time="0.20"><vehicle id="carA" x="2" y="0" angle="90" speed="10"/><vehicle id="carB" x="1.6" y="10" angle="90" speed="8"/></timestep>
+</fcd-export>
