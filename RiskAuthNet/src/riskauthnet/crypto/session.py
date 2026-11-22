@@ -1,8 +1,4 @@
-"""Mutually authenticated 4-DH V2I handshake, role-separated confirmations.
 
-Research protocol matches the manuscript's four shared-key components. Production
-engineering should use separated ECDSA and ECDH identity keys and a standard AKE.
-"""
 from __future__ import annotations
 from dataclasses import dataclass
 import hashlib
