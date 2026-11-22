@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# Usage: NS3_HOME=/path/to/ns-3.47 scripts/run_ns3.sh mobility.csv output.csv
+
 set -euo pipefail
 : "${NS3_HOME:?set NS3_HOME to an installed ns-3.47 source directory}"
 MOBILITY="$(realpath "${1:?mobility CSV required}")"
