@@ -129,18 +129,11 @@ RiskAuthNet/
 ├── ns3/
 │   └── riskauthnet-v2x.cc
 │
-├── docs/
-│   ├── REPRODUCIBILITY.md
-│   ├── DEVIATIONS.md
-│   └── SECURITY.md
-│
 ├── tests/
 │
 ├── results/
 │
-├── pyproject.toml
-├── LICENSE
-└── README.md
+└── requirements
 ```
 
 ## Installation
