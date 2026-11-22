@@ -1,8 +1,4 @@
-"""SUMO FCD -> mobility CSV; replay genuine NS-3 802.11p RX records.
 
-The NS-3 bridge is offline trace coupling, NOT a live Python/ns-3 interface.
-Radio losses and receive times originate from the simulator, when it is run.
-"""
 from __future__ import annotations
 import csv
 from pathlib import Path
