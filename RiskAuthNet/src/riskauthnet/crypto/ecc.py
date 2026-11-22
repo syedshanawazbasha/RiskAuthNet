@@ -1,7 +1,4 @@
-"""Library-backed NIST P-256 signatures, RFC6979 and ECDH.
 
-Never use these prototype keys or in-memory HSM substitutes in a real vehicle.
-"""
 from __future__ import annotations
 from cryptography.exceptions import InvalidSignature
 from cryptography.hazmat.primitives import hashes, serialization
