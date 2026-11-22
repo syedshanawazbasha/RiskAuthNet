@@ -1,8 +1,4 @@
-"""Resign VeReMi events with study-generated credentials for controlled evaluation.
 
-A behavioural dataset label is never treated as an original cryptographic label.
-Original simulation sender, not per-pseudonym records, is the enrollment identity.
-"""
 from __future__ import annotations
 import json
 from pathlib import Path
