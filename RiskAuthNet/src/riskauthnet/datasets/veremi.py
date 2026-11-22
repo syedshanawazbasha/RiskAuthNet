@@ -1,8 +1,4 @@
-"""Stream VeReMi/VeReMi Extension receiver JSON logs, including ZIP archives.
 
-These records DO NOT contain ECDSA signatures, and labels may be absent. The
-converter never infers 'benign' from absence of an explicit annotation.
-"""
 from __future__ import annotations
 import io
 import json
