@@ -1,8 +1,4 @@
-"""Streaming HCRL Car-Hacking timing profiles by arbitration ID.
 
-Handles the raw no-header, variable-DLC data files and T/R flags.
-CAN data are NEVER emitted as V2X packets; only timing profiles are exported.
-"""
 from __future__ import annotations
 from collections import defaultdict
 import csv
