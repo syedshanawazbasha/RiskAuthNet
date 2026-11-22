@@ -1,4 +1,4 @@
-"""Reproducible CLI. Run `riskauthnet --help`."""
+
 from __future__ import annotations
 import argparse
 import csv
