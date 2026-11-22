@@ -1,4 +1,4 @@
-"""Canonical, explicitly serialised message and outcome types."""
+
 from __future__ import annotations
 from dataclasses import dataclass, field
 import base64
