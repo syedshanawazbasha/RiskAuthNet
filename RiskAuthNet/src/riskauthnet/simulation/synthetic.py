@@ -1,8 +1,4 @@
-"""Deterministic statistical *trace* generator, not a claim of NS-3 propagation.
 
-Message signatures are real, attacks are labelled and conditionally injected.
-The attacker fraction is by vehicle; only altered transmissions carry malicious labels.
-"""
 from __future__ import annotations
 from dataclasses import dataclass
 import copy
