@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1467391512.svg)](https://doi.org/10.5281/zenodo.24438127)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-RiskAuthNet-blue?logo=github)](https://github.com/syedshanawazbasha/RiskAuthNet)
+
 # RiskAuthNet
 
 ## Risk-Adaptive Lightweight Authentication and Trust-Scoring Framework for Secure Vehicle-to-Everything Data Dissemination in Vehicular Ad Hoc Networks
