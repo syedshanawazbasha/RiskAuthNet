@@ -1,4 +1,4 @@
-"""Research-grade pseudonym certificate authority and signed revocation deltas."""
+
 from __future__ import annotations
 from dataclasses import dataclass
 import secrets
