@@ -1,4 +1,4 @@
-"""Complete per-message receiver (Algorithms 1-3) and four controlled baselines."""
+
 from __future__ import annotations
 from time import perf_counter_ns
 from typing import Mapping
