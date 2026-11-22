@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# Usage: scripts/run_sumo.sh network.sumocfg [mobility.csv]
+
 set -euo pipefail
 CONFIG="${1:?SUMO .sumocfg required}"
 OUTPUT="${2:-results/sumo/mobility.csv}"
